@@ -9,7 +9,7 @@ What if you commanded the invasion instead of X-COM? Alien Conquest is an unoffi
 [url=https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0.zip]Windows game package (v1.0)[/url]
 [url=https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0_Source_and_Build_Kit.zip]Matching source and build kit[/url]
 [url=https://github.com/RetchERez/XCom_AlienConquest/releases/tag/v1.0]Release page and checksums[/url]
-[url=https://github.com/RetchERez/XCom_AlienConquest]GitHub project and source[/url][/center]
+[url=https://github.com/RetchERez/XCom_AlienConquest]GitHub project[/url][/center]
 
 [b]What you do[/b]
 • Build and expand underwater alien bases
