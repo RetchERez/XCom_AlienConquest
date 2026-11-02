@@ -1,13 +1,12 @@
-[CENTER][IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/01_sectoid_plasma_shot.gif[/IMG]
-[B][SIZE=6]X-COM: ALIEN CONQUEST v1.0[/SIZE][/B] // [B][SIZE=6]By Retch[/SIZE][/B]
-[/CENTER]
-
+[CENTER][B][SIZE=6]X-COM: ALIEN CONQUEST v1.0[/SIZE][/B] // [B][SIZE=6]By Retch*[/SIZE][/B]
+[IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/06_xcom_base_battle.png[/IMG][/CENTER]
 What if you commanded the invasion instead of X-COM? Alien Conquest is an unofficial, full alien-side campaign for X-COM: UFO Defense, built on OpenXcom Extended. You establish hidden ocean bases, direct UFO operations across Earth, recover people and resources, research human technology, and fight X-COM when its forces respond.
 
-[CENTER][B][URL='https://retcherez.github.io/XCom_AlienConquest/']Read the complete game guide[/URL][/B][/CENTER]
+[IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/01_sectoid_plasma_shot.gif[/IMG]
 
 [CENTER][B]Download[/B]
 [URL='https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0.zip']Windows game package (v1.0)[/URL]
+[URL='https://retcherez.github.io/XCom_AlienConquest/']Complete online game guide[/URL]
 [URL='https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0_Source_and_Build_Kit.zip']Matching source and build kit[/URL]
 [URL='https://github.com/RetchERez/XCom_AlienConquest/releases/tag/v1.0']Release page and checksums[/URL]
 [URL='https://github.com/RetchERez/XCom_AlienConquest']GitHub project[/URL][/CENTER]
@@ -21,9 +20,9 @@ What if you commanded the invasion instead of X-COM? Alien Conquest is an unoffi
 • Fight X-COM on tactical maps when its bases detect and reach your operations; interceptors and base assaults add other threats
 • Manage fuel, funding, monthly assessments, expansion, and a full win-or-lose campaign
 
-[CENTER][B]Screenshots[/B]
+[CENTER][B]Screenshots
 
-[B]Geoscape and operations[/B]
+Geoscape and operations[/B]
 [IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/01_geoscape.png[/IMG]
 
 [B]Alien base and facility grid[/B]
@@ -38,12 +37,7 @@ What if you commanded the invasion instead of X-COM? Alien Conquest is an unoffi
 [B]Human research[/B]
 [IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/05_human_research.png[/IMG]
 
-[B]Tactical assault on an X-COM base[/B]
-[IMG]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v4/06_xcom_base_battle.png[/IMG]
-
-[/CENTER]
-
-[B]Requirements and installation[/B]
+[B]Requirements and installation[/B][/CENTER]
 Windows is supported by the included executable. You need your own copy of X-COM: UFO Defense; its original data is not distributed with this release. Terror from the Deep data alone will not work.
 
 1. Extract the game ZIP to a writable location, such as C:\AlienConquest
@@ -65,3 +59,5 @@ If you encounter a problem, please include the mission or screen, what you expec
 [B]SHA-256[/B]
 Game ZIP: DA51C0CCE8A46FE023F6991BEDD2B8688DEED232E405AFB46153952B751C432D
 Source kit: B29BA7819C7467304EF2F96AD691EA05146BDC63C0C6B73DF7E3C89316D1D2D8
+
+*Directed By Retch and created with Atlantean Intelligence
