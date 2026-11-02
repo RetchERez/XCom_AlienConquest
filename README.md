@@ -21,6 +21,8 @@ For example, `C:\AlienConquest\UFO\GEODATA` is the expected layout. The game ZIP
 
 The game package includes `README.txt` for installation and play instructions, plus `Alien Conquest Game Guide.html` for a linked walkthrough.
 
+Read the [complete game guide online](https://retcherez.github.io/XCom_AlienConquest/). The same standalone guide is included in the game ZIP.
+
 ## Licensing and attribution
 
 The included modified OpenXcom executable is distributed under the GNU GPL, with its matching source in the source and build kit. The packages also include notices for bundled runtime libraries and other components in `AlienConquest/Licenses`. X-COM: UFO Defense data is not included and must come from the player's own copy. This is an unofficial project and is not affiliated with the X-COM rights holders.
