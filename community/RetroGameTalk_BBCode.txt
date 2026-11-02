@@ -39,8 +39,8 @@ Tactical assault on an X-COM base
 [b]Short animated previews[/b]
 These lightweight GIFs cycle through captured game screens.
 
-Base construction
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/01_base_construction.gif[/img]
+First sortie
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/01_first_sortie.gif[/img]
 
 Alien crew equipment
 [img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/02_alien_crew.gif[/img]
