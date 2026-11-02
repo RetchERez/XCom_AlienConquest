@@ -1,3 +1,5 @@
+[center][img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/01_first_sortie.gif[/img][/center]
+
 [center][b]X-COM: ALIEN CONQUEST v1.0[/b]
 Play the alien invasion[/center]
 
@@ -20,36 +22,33 @@ What if you commanded the invasion instead of X-COM? Alien Conquest is an unoffi
 [center][b]Screenshots[/b]
 
 Geoscape and operations
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/01_geoscape.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/01_geoscape.png[/img]
 
 Alien base and facility grid
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/02_alien_base.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/02_alien_base.png[/img]
 
 Craft loading
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/03_craft_loading.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/03_craft_loading.png[/img]
 
 Alien equipment screen
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/04_sectoid_equipment.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/04_sectoid_equipment.png[/img]
 
 Human research
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/05_human_research.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/05_human_research.png[/img]
 
 Tactical assault on an X-COM base
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/06_xcom_base_battle.png[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/06_xcom_base_battle.png[/img]
 
 [/center]
 
-[center][b]Short animated previews[/b]
+[center][b]More animated previews[/b]
 These lightweight GIFs cycle through captured game screens.
 
-First sortie
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/01_first_sortie.gif[/img]
-
 Alien crew equipment
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/02_alien_crew.gif[/img]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/02_alien_crew.gif[/img]
 
 Tactical sites
-[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v2/03_tactical_sites.gif[/img][/center]
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/v3/03_tactical_sites.gif[/img][/center]
 
 [b]Requirements and installation[/b]
 Windows is supported by the included executable. You need your own copy of X-COM: UFO Defense; its original data is not distributed with this release. Terror from the Deep data alone will not work.
