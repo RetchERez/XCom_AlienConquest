@@ -1,0 +1,72 @@
+[b]X-COM: ALIEN CONQUEST v1.0[/b]
+
+What if you commanded the invasion instead of X-COM? Alien Conquest is an unofficial, full alien-side campaign for X-COM: UFO Defense, built on OpenXcom Extended. You establish hidden ocean bases, direct UFO operations across Earth, recover people and resources, research human technology, and fight X-COM when its forces respond.
+
+[b]Download[/b]
+[url=https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0.zip]Windows game package (v1.0)[/url]
+[url=https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0_Source_and_Build_Kit.zip]Matching source and build kit[/url]
+[url=https://github.com/RetchERez/XCom_AlienConquest/releases/tag/v1.0]Release page and checksums[/url]
+
+[b]What you do[/b]
+• Build and expand underwater alien bases
+• Recruit biological alien crew, equip UFOs, and deploy mechanical terror units as vehicles
+• Choose Recon, Raid, and Terror orders based on the target
+• Harvest rural resources, abduct humans in cities, and launch smaller Rural Terror Raids before heavier City Terror becomes available
+• Research captured humans, weapons, equipment, and aircraft technology, then buy or fabricate the gear your invasion needs
+• Fight X-COM on tactical maps when its bases detect and reach your operations; interceptors and base assaults add other threats
+• Manage fuel, funding, monthly assessments, expansion, and a full win-or-lose campaign
+
+[b]Screenshots[/b]
+
+Geoscape and operations
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/01_geoscape.png[/img]
+
+Alien base and facility grid
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/02_alien_base.png[/img]
+
+Craft loading
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/03_craft_loading.png[/img]
+
+Alien equipment screen
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/04_sectoid_equipment.png[/img]
+
+Human research
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/05_human_research.png[/img]
+
+Tactical assault on an X-COM base
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/06_xcom_base_battle.png[/img]
+
+[b]Short animated previews[/b]
+These lightweight GIFs cycle through captured game screens.
+
+Base construction
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/01_base_construction.gif[/img]
+
+Alien crew equipment
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/02_alien_crew.gif[/img]
+
+Tactical sites
+[img]https://raw.githubusercontent.com/RetchERez/XCom_AlienConquest/main/media/03_tactical_sites.gif[/img]
+
+[b]Requirements and installation[/b]
+Windows is supported by the included executable. You need your own copy of X-COM: UFO Defense; its original data is not distributed with this release. Terror from the Deep data alone will not work.
+
+1. Extract the game ZIP to a writable location, such as C:\AlienConquest
+2. From your UFO Defense installation, copy GEODATA, GEOGRAPH, MAPS, ROUTES, SOUND, TERRAIN, UFOGRAPH, UFOINTRO, and UNITS directly into AlienConquest\UFO
+3. Confirm the layout is like C:\AlienConquest\UFO\GEODATA
+4. Run AlienConquest\openxcom.exe and start a new game
+
+The game ZIP has a README.txt with a concise player guide and an HTML walkthrough with linked sections, research tables, and campaign details. A separate OpenXcom installation is not required.
+
+[b]A few starting tips[/b]
+Beginner is a good setting for a first campaign. Place your first base in open water near useful land targets. Use the Probe for Recon and put biological crew on the Scout before trying a Raid. Rural Raid becomes Harvest; City Raid becomes Abduction. Rural Terror can use an eligible light craft, while City Terror needs heavier preparation. Your early Purchase / Recruit list is intentionally short; research opens more orders and fabrication recipes. Recovered cargo reaches base stores only after its UFO returns home.
+
+[b]Credits and source[/b]
+Alien Conquest by RetchERezzed. This is an unofficial fan project and is not affiliated with the X-COM rights holders. The game uses an included modified OpenXcom Extended executable. Its matching source and build kit is linked above, and the packages include applicable software and runtime license notices. Original UFO Defense assets must be supplied by the player.
+
+[b]Feedback[/b]
+If you encounter a problem, please include the mission or screen, what you expected, what happened, and a save from just before the issue if possible. [url=https://github.com/RetchERez/XCom_AlienConquest/issues]Report an issue on GitHub[/url].
+
+[b]SHA-256[/b]
+Game ZIP: DA51C0CCE8A46FE023F6991BEDD2B8688DEED232E405AFB46153952B751C432D
+Source kit: B29BA7819C7467304EF2F96AD691EA05146BDC63C0C6B73DF7E3C89316D1D2D8
