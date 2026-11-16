@@ -4,13 +4,11 @@ An unofficial alien-side campaign for OpenXcom Extended. Command UFOs, build hid
 
 ## Download
 
-Choose a game package from the [v1.0 release](https://github.com/RetchERez/XCom_AlienConquest/releases/tag/v1.0). The source kit matches both:
+Download the single [v1.1 game ZIP](https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.1/AlienConquest_v1_1.zip). It contains English and Russian, with English selected by default:
 
-- **AlienConquest_v1_0.zip** is the Windows game package
-- **AlienConquest_v1_0_RU.zip** is the Windows package with Russian selected by default
-- **AlienConquest_v1_0_Source_and_Build_Kit.zip** contains the matching modified engine source, build materials, and license notices
+- **AlienConquest_v1_1.zip** is the Windows game package with both languages
 
-The automatic GitHub “Source code” archive is only a snapshot of this repository. Use the matching source and build kit above for the executable in the game package.
+The executable is unchanged from v1.0. Its [matching source and build kit](https://github.com/RetchERez/XCom_AlienConquest/releases/download/v1.0/AlienConquest_v1_0_Source_and_Build_Kit.zip) remains available. The automatic GitHub “Source code” archive is only a snapshot of this repository.
 
 ## Install
 
@@ -22,7 +20,7 @@ For example, `C:\AlienConquest\UFO\GEODATA` is the expected layout. The game ZIP
 
 The game package includes `README.txt` for installation and play instructions, plus `Alien Conquest Game Guide.html` for a linked walkthrough.
 
-The Russian package includes [Generation_G_ZERO's translation](Language/ru.yml), with the four X-COM air patrol entries completed. Its `README.txt` starts with Russian installation instructions. Some custom v1.0 interface labels are embedded in the executable and remain in English, including the operation picker and the Geoscape's `OPERATIONS` button. The detailed HTML guide remains in English. Both game packages use the same executable and matching source kit.
+To play in Russian, open **Options**, choose **Video**, set **Display Language** to **Russian**, and select **OK**. The package includes [Generation_G_ZERO's translation](Language/ru.yml), with the four X-COM air patrol entries completed. Some custom interface labels are embedded in the executable and remain in English, including the operation picker and the Geoscape's `OPERATIONS` button. The detailed HTML guide remains in English.
 
 Read the [complete game guide online](https://retcherez.github.io/XCom_AlienConquest/). The same standalone guide is included in the game ZIP.
 
